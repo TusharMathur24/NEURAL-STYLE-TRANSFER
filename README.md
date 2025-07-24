@@ -52,7 +52,3 @@ pip install torch torchvision pillow matplotlib
 - **Steps**: Change `num_steps` in `run_style_transfer` for more/less optimization.
 
 > *Note: The output will be generated after running the notebook.*
-
-## References
-
-- [PyTorch Neural Style Transfer Tutorial](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
