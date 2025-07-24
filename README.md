@@ -51,12 +51,6 @@ pip install torch torchvision pillow matplotlib
 - **Adjust Weights**: Modify `style_weight` and `content_weight` to control the blend.
 - **Steps**: Change `num_steps` in `run_style_transfer` for more/less optimization.
 
-## Example
-
-| Content Image | Style Image | Output |
-|---------------|-------------|--------|
-| ![content](content.jpg) | ![style](style.jpg) | ![output](stylized_output.jpg) |
-
 > *Note: The output will be generated after running the notebook.*
 
 ## References
